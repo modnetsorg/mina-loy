@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+              <rdf:RDF
+               xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+               xmlns:dc="http://purl.org/dc/elements/1.1/"
+               xmlns:dcterms="http://purl.org/dc/terms/"
+               xmlns:collex="http://www.collex.org/schema#"
+               xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+               xmlns:mlna="http://mina-loy.com/schema"
+               xmlns:role="http://www.loc.gov/loc.terms/relators/">
+               
+
+    <mlna:Description rdf:about="https://mina-loy.com/chapters/italy-italian-baedeker/">
+        <collex:federation>ModNets</collex:federation>
+        <collex:archive>loy</collex:archive>
+        <dc:title>Loy's Italian Baedeker: Mapping a Feminist En Dehors Garde</dc:title>
+        <!-- See the COLLEX RDF guidelines for more role codes, or you can use any 
+            valid LC relator codes -->
+        <role:AUT>Linda A. Kinnahan</role:AUT>
+        <dc:type>Interactive Resource</dc:type>
+        <dc:type>Collection</dc:type>
+        <collex:discipline>Art History</collex:discipline>
+        <collex:discipline>Literature</collex:discipline>
+        <collex:discipline>History</collex:discipline>
+        <collex:discipline>Gender Studies</collex:discipline>
+        <collex:genre>Criticism</collex:genre>
+        <collex:genre>Essay</collex:genre>
+        <collex:genre>Historiography</collex:genre>
+        <collex:freeculture>True</collex:freeculture>
+        <collex:fulltext>True</collex:fulltext>
+        <dc:date>16/03/2019</dc:date>
+        <collex:text>Loy's Italian Baedeker: Mapping a Feminist En Dehors Garde by and Linda A. Kinnahan</collex:text>
+        <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/"/>
+        <!-- Relate this object to its child objects using dcterms:hasPart-->
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/1-preamble/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/02-oltrarno-costa/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/3-arcetri-dodge/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/4-futurist-florence/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/5-italian-retreats/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/6-poetic-baedeker/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/7-works-cited/"/>
+        <!-- Relate this object to its parent object using dcterms:isPartOf-->
+        <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
+    </mlna:Description>
+</rdf:RDF>
