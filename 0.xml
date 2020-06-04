@@ -11,7 +11,7 @@
 
     <mlna:Description rdf:about="https://mina-loy.com/chapters/">
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>loy</collex:archive>
+        <collex:archive>ml</collex:archive>
         <dc:title>Mina Loy Baedeker: Scholarly Handbook for Digital Travelers</dc:title>
         <role:AUT>Suzanne W. Churchill</role:AUT>
         <role:AUT>Linda A. Kinnahan</role:AUT>
@@ -41,4 +41,273 @@
         <dcterms:hasPart rdf:resource="https://mina-loy.com/chapters/pas-de-deux/"/>
         <dcterms:hasPart rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/"/>
     </mlna:Description>
+
+    <mlna:Description rdf:about="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/">
+        <collex:federation>ModNets</collex:federation>
+        <collex:archive>ml</collex:archive>
+        <dc:title>Surrealism on the Move: New York, 1937-1953</dc:title>
+        <!-- See the COLLEX RDF guidelines for more role codes, or you can use any
+            valid LC relator codes -->
+        <role:AUT>Susan Rosenbaum</role:AUT>
+        <dc:type>Interactive Resource</dc:type>
+        <dc:type>Collection</dc:type>
+        <collex:discipline>Art History</collex:discipline>
+        <collex:discipline>History</collex:discipline>
+        <collex:discipline>Literature</collex:discipline>
+        <collex:discipline>Gender Studies</collex:discipline>
+        <collex:genre>Criticism</collex:genre>
+        <collex:genre>Essay</collex:genre>
+        <collex:freeculture>True</collex:freeculture>
+        <collex:fulltext>True</collex:fulltext>
+        <dc:date>16/03/2019</dc:date>
+        <collex:text>Surrealism on the Move: New York, 1937-1953 by and Susan Rosenbaum</collex:text>
+        <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/"/>
+        <!-- Relate this object to its child objects using dcterms:hasPart-->
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/surrealism-on-the-move-ny-1937-53/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/2-sidewalk-surrealism-loys-and-cornells-aviaries/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/3-collectingminaloy/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/4-works-cited-surrealism-on-the-move-new-york-1937-1953/"/>
+        <!-- Relate this object to its parent object using dcterms:isPartOf-->
+        <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
+    </mlna:Description>
+
+    <mlna:Description rdf:about="https://mina-loy.com/chapters/surreal-scene/">
+        <collex:federation>ModNets</collex:federation>
+        <collex:archive>ml</collex:archive>
+        <dc:title>Surreal Scene: Paris, 1923-1936</dc:title>
+        <!-- See the COLLEX RDF guidelines for more role codes, or you can use any
+            valid LC relator codes -->
+        <role:AUT>Susan Rosenbaum</role:AUT>
+        <dc:type>Interactive Resource</dc:type>
+        <dc:type>Collection</dc:type>
+        <collex:discipline>Art History</collex:discipline>
+        <collex:discipline>Literature</collex:discipline>
+        <collex:discipline>History</collex:discipline>
+        <collex:discipline>Gender Studies</collex:discipline>
+        <collex:genre>Criticism</collex:genre>
+        <collex:genre>Essay</collex:genre>
+        <collex:freeculture>True</collex:freeculture>
+        <collex:fulltext>True</collex:fulltext>
+        <dc:date>16/03/2019</dc:date>
+        <collex:text>Surreal Scene: Paris, 1923-1936 by and Susan Rosenbaum</collex:text>
+        <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/surreal-scene/"/>
+        <!-- Relate this object to its child objects using dcterms:hasPart-->
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/surreal-scene/1-surreal-scene-paris-1923-36/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/surreal-scene/2-surrealist-histories-loy-the-parisian-avant-garde/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/surreal-scene/3-surreal-scene-feminist-critique-transformation/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/surreal-scene/5-paris-era-exhibitions/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/surreal-scene/4-loy-surrealism-the-levy-gallery/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/surreal-scene/6-surreal-scene-paris-1921-1936-works-cited/"/>
+        <!-- Relate this object to its parent object using dcterms:isPartOf-->
+        <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
+    </mlna:Description>
+
+    <mlna:Description rdf:about="https://mina-loy.com/chapters/pas-de-deux/">
+        <collex:federation>ModNets</collex:federation>
+        <collex:archive>ml</collex:archive>
+        <dc:title>Pas de Deux: Mina Loy &amp; Alfred Stieglitz Dance Dada</dc:title>
+        <!-- See the COLLEX RDF guidelines for more role codes, or you can use any
+            valid LC relator codes -->
+        <role:AUT>Suzanne W. Churchill</role:AUT>
+        <dc:type>Interactive Resource</dc:type>
+        <dc:type>Collection</dc:type>
+        <collex:discipline>Art History</collex:discipline>
+        <collex:discipline>Literature</collex:discipline>
+        <collex:discipline>History</collex:discipline>
+        <collex:genre>Criticism</collex:genre>
+        <collex:genre>Essay</collex:genre>
+        <collex:freeculture>True</collex:freeculture>
+        <collex:fulltext>True</collex:fulltext>
+        <dc:date>16/03/2019</dc:date>
+        <collex:text>Pas de Deux: Mina Loy &amp; Alfred Stieglitz Dance Dada by and Suzanne W. Churchill</collex:text>
+        <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/pas-de-deux/"/>
+        <!-- Relate this object to its child objects using dcterms:hasPart-->
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/pas-de-deux/1-entree/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/pas-de-deux/2-adagio/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/pas-de-deux/3-variation-i/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/pas-de-deux/4-variation-ii/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/pas-de-deux/5-coda/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/pas-de-deux/6-works-cited/"/>
+        <!-- Relate this object to its parent object using dcterms:isPartOf-->
+        <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
+    </mlna:Description>
+
+    <mlna:Description rdf:about="https://mina-loy.com/chapters/courting-an-audience/">
+        <collex:federation>ModNets</collex:federation>
+        <collex:archive>ml</collex:archive>
+        <dc:title>Courting an Audience: Loy's Plays</dc:title>
+        <!-- See the COLLEX RDF guidelines for more role codes, or you can use any
+            valid LC relator codes -->
+        <role:AUT>Suzanne W. Churchill</role:AUT>
+        <dc:type>Interactive Resource</dc:type>
+        <dc:type>Collection</dc:type>
+        <collex:discipline>Art History</collex:discipline>
+        <collex:discipline>Gender Studies</collex:discipline>
+        <collex:discipline>Literature</collex:discipline>
+        <collex:discipline>History</collex:discipline>
+        <collex:discipline>Theater Studies</collex:discipline>
+        <collex:genre>Criticism</collex:genre>
+        <collex:genre>Essay</collex:genre>
+        <collex:freeculture>True</collex:freeculture>
+        <collex:fulltext>True</collex:fulltext>
+        <dc:date>13/03/2019</dc:date>
+        <collex:text>Courting an Audience: Loy's Plays by and Suzanne W. Churchill</collex:text>
+        <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/courting-an-audience/"/>
+        <!-- Relate this object to its child objects using dcterms:hasPart-->
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/1-futurist-performance/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/2-publication-history-of-plays/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/3-critical-conversations/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/4-biographical-background/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/5-collision-cittabapini/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/6-the-sacred-prostitute/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/7-the-pamperers/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/8-the-curtain-falls/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/9-works-cited/"/>
+        <!-- Relate this object to its parent object using dcterms:isPartOf-->
+        <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
+    </mlna:Description>
+
+    <mlna:Description rdf:about="https://mina-loy.com/chapters/introduction-digital-loy/">
+        <collex:federation>ModNets</collex:federation>
+        <collex:archive>ml</collex:archive>
+        <dc:title>Introduction: Digital Loy</dc:title>
+        <!-- See the COLLEX RDF guidelines for more role codes, or you can use any
+            valid LC relator codes -->
+        <role:AUT>Suzanne W. Churchill</role:AUT>
+        <role:AUT>Linda A. Kinnahan</role:AUT>
+        <role:AUT>Susan Rosenbaum</role:AUT>
+        <dc:type>Interactive Resource</dc:type>
+        <dc:type>Collection</dc:type>
+        <collex:discipline>Art History</collex:discipline>
+        <collex:discipline>Gender Studies</collex:discipline>
+        <collex:discipline>Literature</collex:discipline>
+        <collex:discipline>History</collex:discipline>
+        <collex:genre>Criticism</collex:genre>
+        <collex:genre>Essay</collex:genre>
+        <collex:freeculture>True</collex:freeculture>
+        <collex:fulltext>True</collex:fulltext>
+        <dc:date>13/03/2019</dc:date>
+        <collex:text>Introduction: Digital Loy by Suzanne W. Churchill, Linda A. Kinnahan, and Susan Rosenbaum</collex:text>
+        <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/"/>
+        <!-- Relate this object to its child objects using dcterms:hasPart-->
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/the-work-of-scholarship/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/feminist-design/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/loys-feminist-designs/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/loy-studies-timetable/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/chapter-roadmap/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/works-cited/"/>
+        <!-- Relate this object to its parent object using dcterms:isPartOf-->
+        <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
+    </mlna:Description>
+
+    <mlna:Description rdf:about="https://mina-loy.com/chapters/italy-italian-baedeker/">
+        <collex:federation>ModNets</collex:federation>
+        <collex:archive>ml</collex:archive>
+        <dc:title>Loy's Italian Baedeker: Mapping a Feminist En Dehors Garde</dc:title>
+        <!-- See the COLLEX RDF guidelines for more role codes, or you can use any
+            valid LC relator codes -->
+        <role:AUT>Linda A. Kinnahan</role:AUT>
+        <dc:type>Interactive Resource</dc:type>
+        <dc:type>Collection</dc:type>
+        <collex:discipline>Art History</collex:discipline>
+        <collex:discipline>Literature</collex:discipline>
+        <collex:discipline>History</collex:discipline>
+        <collex:discipline>Gender Studies</collex:discipline>
+        <collex:genre>Criticism</collex:genre>
+        <collex:genre>Essay</collex:genre>
+        <collex:genre>Historiography</collex:genre>
+        <collex:freeculture>True</collex:freeculture>
+        <collex:fulltext>True</collex:fulltext>
+        <dc:date>16/03/2019</dc:date>
+        <collex:text>Loy's Italian Baedeker: Mapping a Feminist En Dehors Garde by and Linda A. Kinnahan</collex:text>
+        <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/"/>
+        <!-- Relate this object to its child objects using dcterms:hasPart-->
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/1-preamble/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/02-oltrarno-costa/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/3-arcetri-dodge/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/4-futurist-florence/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/5-italian-retreats/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/6-poetic-baedeker/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/7-works-cited/"/>
+        <!-- Relate this object to its parent object using dcterms:isPartOf-->
+        <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
+    </mlna:Description>
+
+    <mlna:Description rdf:about="https://mina-loy.com/chapters/avant-garde-theory-2/">
+        <collex:federation>ModNets</collex:federation>
+        <collex:archive>ml</collex:archive>
+        <dc:title>Theories of the Avant-Garde &amp; En Dehors Garde</dc:title>
+        <!-- See the COLLEX RDF guidelines for more role codes, or you can use any
+            valid LC relator codes -->
+        <role:AUT>Suzanne W. Churchill</role:AUT>
+        <role:AUT>Linda A. Kinnahan</role:AUT>
+        <role:AUT>Susan Rosenbaum</role:AUT>
+        <dc:type>Interactive Resource</dc:type>
+        <dc:type>Collection</dc:type>
+        <collex:discipline>Art History</collex:discipline>
+        <collex:discipline>Gender Studies</collex:discipline>
+        <collex:discipline>Literature</collex:discipline>
+        <collex:discipline>History</collex:discipline>
+        <collex:genre>Criticism</collex:genre>
+        <collex:genre>Essay</collex:genre>
+        <collex:freeculture>True</collex:freeculture>
+        <collex:fulltext>True</collex:fulltext>
+        <dc:date>23/03/2019</dc:date>
+        <collex:text>Theories of the Avant-Garde &amp; En Dehors Garde by Suzanne W. Churchill, Linda A. Kinnahan, and Susan Rosenbaum</collex:text>
+        <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/"/>
+        <!-- Relate this object to its child objects using dcterms:hasPart-->
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/definitions/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/masculine-legends/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/feminist-challenges/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/the-en-dehors-garde/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/digital-flash-mob/"/>
+        <dcterms:hasPart
+            rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/works-cited/"/>
+        <!-- Relate this object to its parent object using dcterms:isPartOf-->
+        <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
+    </mlna:Description>
+
 </rdf:RDF>
