@@ -1,0 +1,7 @@
+before_script:
+  - apt update -qq && apt install -y -qq raptor2-utils
+  - which rapper
+
+validate_rdf:
+  script:
+    - rapper *.xml
