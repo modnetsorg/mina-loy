@@ -33,6 +33,7 @@
         <dc:date>15/03/2019</dc:date>
         <collex:text>Mina Loy Baedeker: Scholarly Handbook for Digital Travelers By Suzanne W. Churchill, Linda A. Kinnahan, and Susan Rosenbaum Preamble These are suspect places â Mina Loy, âSongs to Joannesâ Mina Loy Baedeker charts Loyâs navigation of Italian Futurism, New York Dada, and French and American Surrealism between the 1910s and the 1960s. Analyzing and interpreting her shifting avant-garde affiliations, experiments with genre and media, and geographic migrations, the chapters serve as a Scholarly Handbook for Digital Travelers. 3 baedekers The term âBaedekerâ emerged in 1826, when German publisher Verlag Karl Baedeker began to publish travel guides for cities around the world, which included introductions, fold-out maps, travel routes, and information about important sights and destinations, all written by experts. Popularly called âBaedekers,â the guides became best-sellers and were translated into multiple languages (Wikipedia). cover of Lunar Baedeker and Time-tablesMina Loy, a world-traveler, likely relied on the guides for practical advice. She also drew upon them for imaginative inspiration, adopting the phrase âLunar Baedekerââguidebook to the moonâfor the two volumes of her writing published in her lifetime: Lunar Baedecker [sic] (Contact Publishing Co., 1923). The Lunar Baedeker &amp; Time-Tables (Jonathan Williams, 1958) Posthumous collections of her work have used the same title phrase: The Last Lunar Baedeker (Jargon Society, 1982). The Lost Lunar Baedeker: Poems of Mina Loy (Farrar, Straus &amp; Giroux, 1996). In calling our scholarly chapters a âMina Loy Baedeker,â we acknowledge Loyâs ingenious use of innovative forms to navigate real and imagined territory, as well as contemporary readersâ need for a new kind of handbook for navigating her complex archive. The Handbook is organized chronologically and geographically, following Loyâs movements through time and space. The chapters may be read consecutively, or navigate your own path. Note: In Spring 2019, Mina Loy Baedeker will be subjected to double-blind peer review by ModNets and a process of public peer review via Hypothes.is.</collex:text>
         <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/"/>
+        <!-- These are breaking things. There ought to be a better way of gesturing towards these parts without removing them, but let's get it to work, for now.
         <dcterms:hasPart rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/"/>
         <dcterms:hasPart rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/"/>
         <dcterms:hasPart rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/"/>
@@ -40,6 +41,7 @@
         <dcterms:hasPart rdf:resource="https://mina-loy.com/chapters/surreal-scene/"/>
         <dcterms:hasPart rdf:resource="https://mina-loy.com/chapters/pas-de-deux/"/>
         <dcterms:hasPart rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/"/>
+        -->
     </mlna:Description>
 
     <mlna:Description rdf:about="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/">
@@ -63,6 +65,7 @@
         <collex:text>Surrealism on the Move: New York, 1937-1953 by and Susan Rosenbaum</collex:text>
         <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/"/>
         <!-- Relate this object to its child objects using dcterms:hasPart-->
+        <!--
         <dcterms:hasPart
             rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/surrealism-on-the-move-ny-1937-53/"/>
         <dcterms:hasPart
@@ -71,6 +74,7 @@
             rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/3-collectingminaloy/"/>
         <dcterms:hasPart
             rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/4-works-cited-surrealism-on-the-move-new-york-1937-1953/"/>
+            -->
         <!-- Relate this object to its parent object using dcterms:isPartOf-->
         <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
     </mlna:Description>
@@ -96,6 +100,7 @@
         <collex:text>Surreal Scene: Paris, 1923-1936 by and Susan Rosenbaum</collex:text>
         <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/surreal-scene/"/>
         <!-- Relate this object to its child objects using dcterms:hasPart-->
+        <!--
         <dcterms:hasPart
             rdf:resource="https://mina-loy.com/chapters/surreal-scene/1-surreal-scene-paris-1923-36/"/>
         <dcterms:hasPart
@@ -108,6 +113,7 @@
             rdf:resource="https://mina-loy.com/chapters/surreal-scene/4-loy-surrealism-the-levy-gallery/"/>
         <dcterms:hasPart
             rdf:resource="https://mina-loy.com/chapters/surreal-scene/6-surreal-scene-paris-1921-1936-works-cited/"/>
+            -->
         <!-- Relate this object to its parent object using dcterms:isPartOf-->
         <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
     </mlna:Description>
@@ -132,6 +138,7 @@
         <collex:text>Pas de Deux: Mina Loy &amp; Alfred Stieglitz Dance Dada by and Suzanne W. Churchill</collex:text>
         <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/pas-de-deux/"/>
         <!-- Relate this object to its child objects using dcterms:hasPart-->
+        <!--
         <dcterms:hasPart
             rdf:resource="https://mina-loy.com/chapters/pas-de-deux/1-entree/"/>
         <dcterms:hasPart
@@ -144,6 +151,7 @@
             rdf:resource="https://mina-loy.com/chapters/pas-de-deux/5-coda/"/>
         <dcterms:hasPart
             rdf:resource="https://mina-loy.com/chapters/pas-de-deux/6-works-cited/"/>
+            -->
         <!-- Relate this object to its parent object using dcterms:isPartOf-->
         <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
     </mlna:Description>
@@ -170,24 +178,24 @@
         <collex:text>Courting an Audience: Loy's Plays by and Suzanne W. Churchill</collex:text>
         <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/courting-an-audience/"/>
         <!-- Relate this object to its child objects using dcterms:hasPart-->
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/1-futurist-performance/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/2-publication-history-of-plays/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/3-critical-conversations/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/4-biographical-background/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/5-collision-cittabapini/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/6-the-sacred-prostitute/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/7-the-pamperers/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/8-the-curtain-falls/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/courting-an-audience/9-works-cited/"/>
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/courting-an-audience/1-futurist-performance/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/courting-an-audience/2-publication-history-of-plays/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/courting-an-audience/3-critical-conversations/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/courting-an-audience/4-biographical-background/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/courting-an-audience/5-collision-cittabapini/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/courting-an-audience/6-the-sacred-prostitute/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/courting-an-audience/7-the-pamperers/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/courting-an-audience/8-the-curtain-falls/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/courting-an-audience/9-works-cited/"/> -->
         <!-- Relate this object to its parent object using dcterms:isPartOf-->
         <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
     </mlna:Description>
@@ -215,18 +223,18 @@
         <collex:text>Introduction: Digital Loy by Suzanne W. Churchill, Linda A. Kinnahan, and Susan Rosenbaum</collex:text>
         <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/"/>
         <!-- Relate this object to its child objects using dcterms:hasPart-->
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/the-work-of-scholarship/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/feminist-design/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/loys-feminist-designs/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/loy-studies-timetable/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/chapter-roadmap/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/works-cited/"/>
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/the-work-of-scholarship/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/feminist-design/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/loys-feminist-designs/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/loy-studies-timetable/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/chapter-roadmap/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/introduction-digital-loy/works-cited/"/> -->
         <!-- Relate this object to its parent object using dcterms:isPartOf-->
         <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
     </mlna:Description>
@@ -253,20 +261,20 @@
         <collex:text>Loy's Italian Baedeker: Mapping a Feminist En Dehors Garde by and Linda A. Kinnahan</collex:text>
         <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/"/>
         <!-- Relate this object to its child objects using dcterms:hasPart-->
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/1-preamble/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/02-oltrarno-costa/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/3-arcetri-dodge/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/4-futurist-florence/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/5-italian-retreats/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/6-poetic-baedeker/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/7-works-cited/"/>
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/1-preamble/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/02-oltrarno-costa/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/3-arcetri-dodge/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/4-futurist-florence/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/5-italian-retreats/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/6-poetic-baedeker/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/italy-italian-baedeker/7-works-cited/"/> -->
         <!-- Relate this object to its parent object using dcterms:isPartOf-->
         <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
     </mlna:Description>
@@ -294,18 +302,18 @@
         <collex:text>Theories of the Avant-Garde &amp; En Dehors Garde by Suzanne W. Churchill, Linda A. Kinnahan, and Susan Rosenbaum</collex:text>
         <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/"/>
         <!-- Relate this object to its child objects using dcterms:hasPart-->
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/definitions/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/masculine-legends/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/feminist-challenges/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/the-en-dehors-garde/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/digital-flash-mob/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/works-cited/"/>
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/definitions/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/masculine-legends/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/feminist-challenges/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/the-en-dehors-garde/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/digital-flash-mob/"/> -->
+        <!-- <dcterms:hasPart -->
+        <!--     rdf:resource="https://mina-loy.com/chapters/avant-garde-theory-2/works-cited/"/> -->
         <!-- Relate this object to its parent object using dcterms:isPartOf-->
         <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
     </mlna:Description>
