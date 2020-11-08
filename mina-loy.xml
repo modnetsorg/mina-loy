@@ -55,21 +55,8 @@
         <dc:date>16/03/2019</dc:date>
         <collex:text>Surrealism on the Move: New York, 1937-1953 by and Susan Rosenbaum</collex:text>
         <rdfs:seeAlso rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/"/>
-<<<<<<< HEAD
-=======
         <!-- Relate this object to its child objects using dcterms:hasPart-->
-        <!--
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/surrealism-on-the-move-ny-1937-53/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/2-sidewalk-surrealism-loys-and-cornells-aviaries/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/3-collectingminaloy/"/>
-        <dcterms:hasPart
-            rdf:resource="https://mina-loy.com/chapters/surrealism-on-the-move-new-york-1937-1953/4-works-cited-surrealism-on-the-move-new-york-1937-1953/"/>
-            -->
         <!-- Relate this object to its parent object using dcterms:isPartOf-->
->>>>>>> 3e894dbc6b6d1cb2c89231f843adeecf37cf5458
         <dcterms:isPartOf rdf:resource="https://mina-loy.com/chapters/"/>
     </mlna:Description>
 
